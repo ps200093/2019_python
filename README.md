@@ -1,2 +1,2 @@
-# suwon_univ
-수원대 2019년
+# Python
+2019 python programin
